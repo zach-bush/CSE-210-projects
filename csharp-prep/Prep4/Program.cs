@@ -59,3 +59,5 @@ class Program
         Console.WriteLine($"The max is: {max}");
     }
 }
+
+// this program is by Zachary Bush
