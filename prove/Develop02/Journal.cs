@@ -42,5 +42,12 @@ public class Journal
             Console.WriteLine();
          }
     }
+
+
+    public void loadEntry(){
+        
+    }
+
+
 }
 
