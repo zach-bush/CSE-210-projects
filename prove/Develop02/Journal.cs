@@ -1,3 +1,5 @@
+using System;
+
 public class Journal
 {
     Random random = new Random ();
